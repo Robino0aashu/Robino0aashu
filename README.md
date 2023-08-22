@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Robino0aashu
-- 📫 IG-@robino__7, LinkedIN-Aashu Kumar
+- 👋 Hi, I'm Aashu Kumar
+- 🏫 3rd year CSE student at VIT Chennai.
+- 📫 LinkedIN-https://www.linkedin.com/in/aashu-kumar-apr2004/
 
 <!---
 Robino0aashu/Robino0aashu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
