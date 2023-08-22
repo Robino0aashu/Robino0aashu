@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Robino0aashu
-- 👀 I’m interested in learning various coding languages and app development.
-- 🌱 I’m currently learning Python, C, C++ and Dart(Flutter).
 - 📫 IG-@robino__7, LinkedIN-Aashu Kumar
 
 <!---
