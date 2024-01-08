@@ -11,7 +11,7 @@ I'm a passionate Flutter Developer, MERN Stack Developer, and AI enthusiast, con
 - **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
 - **Mobile Development:** Flutter, Dart
 - **Backend:** Node.js, Express.js, Python
-- **Databases:** MySQL, MongoDB, Firebase
+- **Databases:** MySQL, MongoDB, Firebase, SQL Plus
 - **Cloud Services:** Google Cloud, Firebase (Cloudinary for image management)
 - **Other Languages:** C, C++, Java, Go
 - **Additional:** XML, Git, Postman
